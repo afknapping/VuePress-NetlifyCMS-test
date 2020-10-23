@@ -6,12 +6,15 @@ title: Home
 
 
 <details>
-<summary>Understand the Opportunity</summary>
-- <details><summary>Opportunity Assessment Review</summary>
-  something </details>
+<summary><h2>Understand the Opportunity<h2></summary>
+<details><summary>Opportunity Assessment Review</summary>
+something
+</details>
+
 - Business Model Canvas
 - Lightning Demos
 - Review Industry & Macro Research
+
 </details>
 
 
