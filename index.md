@@ -20,22 +20,32 @@ title: Home
 - xxxxx
 </details>
 
-
-
-
-
-Understand the Problem
-Confirm the Problem
-Identify Possible Solutions
-Narrow the Field
-Create Tests
-Validate with Users
-Pivot on Learnings
-
-
-<details>
-<summary><b>XXXXXXXXXX<b></summary>
+<details><summary><b>Understand the Problem<b></summary>
 
 - xxxxx
+</details>
 
+<details><summary><b>Identify Possible Solutions<b></summary>
+
+- xxxxx
+</details>
+
+<details><summary><b>Narrow the Field<b></summary>
+
+- xxxxx
+</details>
+
+<details><summary><b>Create Tests<b></summary>
+
+- xxxxx
+</details>
+
+<details><summary><b>Validate with Users<b></summary>
+
+- xxxxx
+</details>
+
+<details><summary><b>Pivot on Learnings<b></summary>
+
+- xxxxx
 </details>
