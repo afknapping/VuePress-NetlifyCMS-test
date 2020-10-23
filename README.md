@@ -18,7 +18,7 @@ Let's get started with VuePress-NetlifyCMS step by step.
 
 ### [Fork](https://github.com/DemoMacro/VuePress-NetlifyCMS/fork) on Github
 
-### [Deploy](https://app.netlify.com/start/deploy?repository=https://github.com/DemoMacro/VuePress-NetlifyCMS) to Netlify
+### [Deploy](https://app.netlify.com/start/deploy?repository=https://github.com/afknapping/VuePress-NetlifyCMS) to Netlify
 
 ```
 Build command: vuepress build
