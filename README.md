@@ -2,6 +2,8 @@
 title: README
 ---
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7b7b995-41fe-42e6-9e66-2ff1d64c2e89/deploy-status)](https://app.netlify.com/sites/optimistic-austin-ab6988/deploys)
+
 # VuePress-NetlifyCMS
 
 ![GitHub](https://img.shields.io/github/license/DemoMacro/VuePress-NetlifyCMS)
