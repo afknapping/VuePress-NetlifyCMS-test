@@ -7,6 +7,7 @@ title: Home
 
 <details>
 <summary><b>Understand the Opportunity<b></summary>
+
 - Opportunity Assessment Review
 - Business Model Canvas
 - Lightning Demos
@@ -15,6 +16,7 @@ title: Home
 
 
 <details><summary><b>Understand the User<b></summary>
+
 - xxxxx
 </details>
 
