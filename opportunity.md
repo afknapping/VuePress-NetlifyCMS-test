@@ -2,6 +2,8 @@
 title: Opportunity
 ---
 
+[← Home](/)
+
 # Opportunity
 
 ## tl;dr
