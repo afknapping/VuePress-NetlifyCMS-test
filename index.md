@@ -2,50 +2,21 @@
 title: Home
 ---
 
-# Hello World
+# Welcome to your Discovery port
 
 
-<details>
-<summary><b>Understand the Opportunity<b></summary>
+## [Opportunity](/opportunity/)
 
-- Opportunity Assessment Review
-- Business Model Canvas
-- Lightning Demos
-- Review Industry & Macro Research
-</details>
+## User
 
+## Problems
 
-<details><summary><b>Understand the User<b></summary>
+## Solutions
 
-- xxxxx
-</details>
+### Narrow the Field
 
-<details><summary><b>Understand the Problem<b></summary>
+### Create Tests
 
-- xxxxx
-</details>
+### Validate with Users
 
-<details><summary><b>Identify Possible Solutions<b></summary>
-
-- xxxxx
-</details>
-
-<details><summary><b>Narrow the Field<b></summary>
-
-- xxxxx
-</details>
-
-<details><summary><b>Create Tests<b></summary>
-
-- xxxxx
-</details>
-
-<details><summary><b>Validate with Users<b></summary>
-
-- xxxxx
-</details>
-
-<details><summary><b>Pivot on Learnings<b></summary>
-
-- xxxxx
-</details>
+## Learnings
